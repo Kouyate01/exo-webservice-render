@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "node ./routes/index"
+    "start": "./routes/index"
   },
   "dependencies": {
     "dotenv": "^16.4.5"
